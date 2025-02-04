@@ -1,4 +1,4 @@
-<h1>Hi, I'm Noah! <br/><a href="https://github.com/NoahKid">IT/Cyber Security Student</a>
+<h1>Hi, I'm Noah! <br/><a href="https://www.linkedin.com/in/noah-kidanemariam-485895306/">IT/Cyber Security Student</a>
 
   <h2>👨‍💻 Tech Projects:</h2>
 
