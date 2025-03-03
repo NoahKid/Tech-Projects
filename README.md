@@ -8,6 +8,9 @@
   - [Python School Projects](https://github.com/NoahKid/Python-work)
 - <b>IT Asset Management</b>
   - [IT Asset Microsoft Excel Sheet](https://github.com/NoahKid/IT-Asset-Management/tree/main)
+- <b>Business Analysis Project</b>
+  - [VS Code Business Analysis Project](https://github.com/NoahKid/Business-Data-Analysis)
+
 
 
 <h2> 🤳 Connect with me:</h2>
