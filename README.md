@@ -7,7 +7,7 @@
 - <b>Python</b>
   - [Python School Projects](https://github.com/NoahKid/Python-work)
 - <b>IT Asset Management</b>
-  - [IT Asset Microsoft Excel Sheet](https://github.com/NoahKid/Python-work)
+  - [IT Asset Microsoft Excel Sheet](https://github.com/NoahKid/IT-Asset-Management/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
