@@ -10,6 +10,10 @@
   - [IT Asset Microsoft Excel Sheet](https://github.com/NoahKid/IT-Asset-Management/tree/main)
 - <b>Business Analysis Project</b>
   - [VS Code Business Analysis Project](https://github.com/NoahKid/Business-Data-Analysis)
+- <b>IT Help Desk Ticketing System</b>
+  - [Google Sheets and Google Forms IT Ticketing System](https://github.com/NoahKid/IT-Help-Desk-Ticketing-System)
+
+
 
 
 
@@ -21,17 +25,4 @@
 
 [linkedin]: https://www.linkedin.com/in/noah-kidanemariam-485895306/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
